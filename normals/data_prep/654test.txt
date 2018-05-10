@@ -1,0 +1,1 @@
+/home/chenzhij/project/MarrRevisited/normals/data_prep/nyu_654test.h5

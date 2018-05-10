@@ -1,0 +1,1 @@
+/mnt/sh_flex_storage/chenzhij/data/marr_nyud/dataset/nyu_h5_data/nyu_794train.h5
